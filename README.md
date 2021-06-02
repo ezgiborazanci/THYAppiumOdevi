@@ -1,26 +1,25 @@
 # THYAppiumOdevi
 
-#Senaryo 
+Senaryo 
 
-#Thy uygulaması açılır
+• Thy uygulaması açılır
 
-#Bilet al butonuna tıklanır.
+• Bilet al butonuna tıklanır.
 
-#Tek yön uçuş seçilir
+• Tek yön uçuş seçilir
 
-#Yön bilgisi olarak SAW to ESB Seçilir
+• Yön bilgisi olarak SAW to ESB Seçilir
 
-#Tarih bilgisi günün tarihinden 2 gün sonraya seçilir
+• Tarih bilgisi günün tarihinden 2 gün sonraya seçilir
 
-#Tamam butonuna tıklanır
+• Tamam butonuna tıklanır
 
-#Yetişkin bilgisi 2 olarak seçilir
+• Yetişkin bilgisi 2 olarak seçilir
 
-#Uçuş ara butonuna tıklanır.
+• Uçuş ara butonuna tıklanır.
 
-#Uçuşların listelendiği kontrol edilir
+• Uçuşların listelendiği kontrol edilir
 
-#Ekonomik uçuş seçilir
+• Ekonomik uçuş seçilir
 
-#Devam butonuna tıklanır
-
+• Devam butonuna tıklanır
