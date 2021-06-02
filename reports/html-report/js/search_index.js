@@ -1,0 +1,1 @@
+var index = {"Tags":{"First case":["specs/scenarios/example.html"]},"Specs":{"THY Mobil Test":["specs/scenarios/example.html"]}};
